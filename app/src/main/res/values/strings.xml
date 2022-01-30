@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">places</string>
+    <string name="app_name">Places (Module Activity)</string>
+    <string name="details_name">details_name</string>
+    <string name="details_desc">details_desc</string>
 </resources>
