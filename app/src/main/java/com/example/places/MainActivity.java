@@ -14,7 +14,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         placesListView = (ListView) findViewById(R.id.main_list);
 
+
+        Place p = new Place("Name", R.drawable.ic_launcher_background, "Description");
     }
 }
